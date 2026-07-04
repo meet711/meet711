@@ -1,4 +1,4 @@
-<h1 align="center">Meet</h1>
+<h1 align="center">Meet Dharnidhar</h1>
 
 <p align="center">
   <b>Cybersecurity | Digital Forensics | Secure Systems</b>
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am **Meet**, an M.Sc. student in **Digital Forensics and Information Technology** at the **National Forensic Sciences University (NFSU)** with a strong passion for cybersecurity, threat detection, and network security. 
+I am **Meet Dharnidhar**, an M.Sc. student in **Digital Forensics and Information Technology** at the **National Forensic Sciences University (NFSU)** with a strong passion for cybersecurity, threat detection, and network security. 
 
 My interests lie at the intersection of **offensive & defensive security**, forensic investigations, and automation. I enjoy building defensive tools (like NetShield) and analyzing network traffic to identify and mitigate threat vectors in real-time.
 
@@ -59,6 +59,8 @@ My interests lie at the intersection of **offensive & defensive security**, fore
 
 ## 📌 Current Focus
 
+* Solving CTF challenges and actively practicing on platforms like TryHackMe & PortSwigger
+* Continuous learning and preparing for advanced cybersecurity and DFIR roles
 * Enhancing real-time threat detection capabilities (like ARP Spoofing and DDoS prevention)
 * Practicing hands-on DFIR and log analysis methodologies
 * Exploring network vulnerabilities and threat mitigation techniques
